@@ -1,1 +1,1 @@
-#bdfjjdvdv
+print("Hello world")
